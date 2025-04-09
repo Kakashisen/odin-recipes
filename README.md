@@ -1,1 +1,1 @@
-Creating a webpage that can access other recipes using links
+Creating a webpage that can access other pages using links
