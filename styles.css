@@ -1,3 +1,7 @@
+p, h2, ul, ol, a {
+    margin: 50px;
+}
+
 .box {
     display:inline-block;
 }
