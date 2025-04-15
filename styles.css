@@ -1,0 +1,13 @@
+.box {
+    display:inline-block;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: olive;
+    text-align: center;
+}
+
+.centre-images {
+    text-align: center;
+}
