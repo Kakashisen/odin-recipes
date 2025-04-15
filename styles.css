@@ -3,9 +3,11 @@
 }
 
 h1 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Papyrus, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
     color: olive;
     text-align: center;
+    font-size: 50px;
 }
 
 .centre-images {
